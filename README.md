@@ -39,12 +39,8 @@ This project is an **AI-powered Wikipedia Chatbot** that allows users to ask nat
 ✅ **Real-time Responses** – Ensures low latency for quick query resolution.  
 
 ## 📸 Screenshot  
-![Wikipedia Chatbot UI]
 <img width="1022" alt="image" src="https://github.com/user-attachments/assets/0e54df7d-bac0-4b5b-9c11-0540e5fd775c" />
-
-
 ---
-
 ### 🚀 Setup Instructions  
 1. Clone the repository  
    ```bash
