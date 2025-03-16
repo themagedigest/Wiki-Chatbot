@@ -45,5 +45,5 @@ This project is an **AI-powered Wikipedia Chatbot** that allows users to ask nat
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/themagedigest/Wiki-Chatbot.git
+   cd Wiki-Chatbot
