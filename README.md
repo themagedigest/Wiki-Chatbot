@@ -47,3 +47,19 @@ This project is an **AI-powered Wikipedia Chatbot** that allows users to ask nat
    ```bash
    git clone https://github.com/themagedigest/Wiki-Chatbot.git
    cd Wiki-Chatbot
+2. Create virtual environment
+   ```bash
+   python3 -m venv virtualenv
+4. Activate the environment
+   ```bash
+   source virtualenv/bin/activate
+6. Install dependencies
+   ```bash
+   pip install -r requirements.txt
+7. Run the FastAPI backend
+   ```bash
+   python3 -m uvicorn api:app --reload
+8. Start the Streamlit UI
+   ```bash
+   python3 -m streamlit run bot.py
+
